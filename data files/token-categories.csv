@@ -1,0 +1,493 @@
+﻿Bitcoin,Currency,PoW
+Ethereum,Layer 1,PoS
+BNB,Exchange,Exchange
+Solana,Layer 1,PoS
+XRP,Layer 1,Other
+Cardano,Layer 1,PoS
+Dogecoin,Currency,Memecoin
+Avalanche,Layer 1,PoS
+Shiba Inu,Currency,Memecoin
+Polkadot,Layer 1,PoS
+Toncoin,Layer 1,PoS
+Chainlink,Infrastructure,Oracle
+TRON,Layer 1,PoS
+Polygon,Layer 1,PoS
+Uniswap,DeFi,DEX
+NEAR Protocol,Layer 1,PoS
+Bitcoin Cash,Currency,PoW
+Litecoin,Currency,PoW
+Internet Computer,Layer 1,PoS
+Aptos,Layer 1,PoS
+Filecoin,Infrastructure,DePIN
+Cosmos Hub,Layer 1,PoS
+Ethereum Classic,Layer 1,Legacy
+Immutable,Entertainment,Platform
+Render,Infrastructure,DePIN
+Hedera,Layer 1,PoS
+Injective,Layer 1,PoS
+Pepe,Currency,Memecoin
+Stacks,Modular Layer,Execution
+Optimism,Modular Layer,Execution
+OKB,Exchange,Exchange
+Stellar,Layer 1,Other
+The Graph,Infrastructure,DePIN
+Bittensor,Other,AI
+Cronos,Exchange,Exchange
+VeChain,Layer 1,PoS
+Kaspa,Layer 1,PoW
+Theta Network,Layer 1,PoS
+Mantle,Modular Layer,Execution
+dogwifhat,Currency,Memecoin
+THORChain,DeFi,DEX
+Fetch.ai,Other,AI
+Arbitrum,Modular Layer,Execution
+Lido DAO,DeFi,Liquid Staking
+Celestia,Modular Layer,Data Availability
+FLOKI,Currency,Memecoin
+Maker,DeFi,Asset Management
+Monero,Currency,Privacy
+Arweave,Infrastructure,DePin
+Algorand,Layer 1,PoS
+GALA,Entertainment,Platform
+Fantom,Layer 1,PoS
+Flow,Layer 1,PoS
+Bonk,Currency,Memecoin
+Sei,Layer 1,PoS
+Beam,Entertainment,Platform
+Aave,DeFi,Lending
+Bitcoin SV,Currency,PoW
+MultiversX,Layer 1,PoS
+Quant,Layer 1,Other
+Sui,Layer 1,PoS
+Starknet,Modular Layer,Execution
+Axie Infinity,Entertainment,Gaming
+dYdX,DeFi,Derivatives
+The Sandbox,Entertainment,Metaverse
+Worldcoin,Other,Other
+SingularityNET,Other,AI
+ORDI,Currency,Memecoin
+BitTorrent,Infrastructure,Other
+Synthetix Network,DeFi,Derivatives
+Mina Protocol,Layer 1,PoS
+Ribbon Finance,DeFi,Derivatives
+Conflux,Layer 1,PoS
+KuCoin,Exchange,Exchange
+ApeCoin,Entertainment,Metaverse
+Flare,Layer 1,PoS
+Chiliz,Layer 1,PoS
+Decentraland,Entertainment,Metaverse
+Tokenize Xchange,n.a.,n.a.
+Tezos,Layer 1,PoS
+SATS (Ordinals),Currency,Memecoin
+EOS,Layer 1,PoS
+Akash Network,Infrastructure,DePIN
+Pyth Network,Infrastructure,Oracle
+Helium,Infrastructure,DePIN
+Ronin,Entertainment,Platform
+Jupiter,DeFi,DEX
+eCash,Currency,PoW
+IOTA,Layer 1,Other
+Axelar,Infrastructure,Cross Chain
+NEO,Layer 1,PoS
+dYdX,DeFi,Derivatives
+PancakeSwap,DeFi,DEX
+Kava,Layer 1,PoS
+0x Protocol,DeFi,DEX
+Oasis Network,Layer 1,PoS
+Klaytn,Layer 1,PoS
+Gnosis,Layer 1,PoS
+Osmosis,DeFi,DEX
+Terra Luna Classic,Layer 1,Legacy
+Blur,Entertainment,Other
+WOO,Exchange,Exchange
+Dymension,Modular Layer,Settlement
+JasmyCoin,Infrastructure,Other
+Curve DAO,DeFi,DEX
+Astar,Layer 1,PoS
+Manta Network,Modular Layer,Execution
+Nervos Network,Layer 1,PoW
+Illuvium,Entertainment,Gaming
+Enjin Coin,Entertainment,Platform
+Livepeer,Infrastructure,DePIN
+NEXO,Exchange,Exchange
+AIOZ Network,n.a.,n.a.
+Ondo,DeFi,Asset Management
+IoTeX,Infrastructure,DePIN
+Ethereum Name Service,Infrastructure,Other
+Memecoin,Currency,Memecoin
+Celo,Layer 1,PoS
+1inch,DeFi,DEX
+Holo,Infrastructure,DePIN
+Ocean Protocol,Layer 1,PoS
+Rocket Pool,DeFi,Liquid Staking
+Terra,Layer 1,PoS
+Frax Share,DeFi,Asset Management
+XDC Network,Layer 1,PoS
+Zilliqa,Layer 1,PoW
+SPACE ID,n.a.,n.a.
+Metis,Modular Layer,Execution
+Loopring,Modular Layer,Execution
+Amp,n.a.,n.a.
+Arkham,n.a.,n.a.
+GMT,Entertainment,Gaming
+Radix,Layer 1,PoS
+Trust Wallet,Infrastructure,Wallet
+Echelon Prime,Entertainment,Platform
+APENFT,Entertainment,Other
+Siacoin,Infrastructure,DePIN
+Golem,Infrastructure,DePIN
+Compound,DeFi,Lending
+SuperVerse,Entertainment,Platform
+AltLayer,Modular Layer,Execution
+Pixels,Entertainment,Gaming
+Core,Layer 1,PoS
+Theta Fuel,Layer 1,PoS
+DeXe,Other,Other
+SKALE,Layer 1,PoS
+Casper Network,Layer 1,PoS
+Ankr Network,Infrastructure,Other
+Qtum,Layer 1,PoS
+Moonbeam,Layer 1,PoS
+Basic Attention,Infrastructure,Other
+Fasttoken,Exchange,Exchange
+GMX,DeFi,Derivatives
+ZetaChain,Infrastructure,Cross Chain
+NEM,Layer 1,PoS
+Kusama,Layer 1,PoS
+Zcash,Currency,Privacy
+OriginTrail,n.a.,n.a.
+Biconomy,Infrastructure,Other
+Gas,Layer 1,PoS
+Kadena,Layer 1,PoW
+EthereumPoW,Layer 1,Legacy
+aelf,Layer 1,Other
+Dash,Currency,Privacy
+Helium Mobile,n.a.,n.a.
+Mask Network,Other,Privacy
+Decred,Currency,PoW
+Flux,n.a.,n.a.
+Galxe,n.a.,n.a.
+Chia,Currency,PoW
+Baby Doge Coin,Currency,Memecoin
+Vanar Chain,n.a.,n.a.
+Boba Network,n.a.,n.a.
+Portal,n.a.,n.a.
+Waves,Layer 1,PoS
+Ravencoin,Currency,PoW
+Harmony,Layer 1,PoS
+Aleph Zero,Layer 1,PoS
+OKT Chain,Layer 1,PoS
+Audius,Entertainment,Other
+Convex Finance,DeFi,Asset Management
+Telcoin,n.a.,n.a.
+API3,Infrastructure,Other
+Aragon,Infrastructure,Other
+DAO Maker,n.a.,n.a.
+Neutron,Layer 1,PoS
+Sushi,DeFi,DEX
+Myro,n.a.,n.a.
+MX,Exchange,Exchange
+Xai,n.a.,n.a.
+Coq Inu,n.a.,n.a.
+Delysium,n.a.,n.a.
+SafePal,Infrastructure,Wallet
+JUST,DeFi,Asset Management
+Band Protocol,Infrastructure,Oracle
+Raydium,DeFi,DEX
+UMA,Infrastructure,Oracle
+Threshold Network,n.a.,n.a.
+ICON,Layer 1,PoS
+Jito,DeFi,Liquid Staking
+Reserve Rights,n.a.,n.a.
+Ontology,Layer 1,PoS
+Magic,Entertainment,Platform
+SSV Network,n.a.,n.a.
+Chromia,n.a.,n.a.
+yearn.finance,DeFi,Asset Management
+COTI,n.a.,n.a.
+Seedify.fund,n.a.,n.a.
+VeThor,n.a.,n.a.
+WAX,Entertainment,Platform
+Balancer,DeFi,DEX
+Milady Meme Coin,n.a.,n.a.
+RSS3,n.a.,n.a.
+MANTRA,n.a.,n.a.
+SXP,Layer 1,PoS
+GuildFi,n.a.,n.a.
+Coin98,n.a.,n.a.
+iExec RLC,n.a.,n.a.
+Lisk,Other,Other
+Cartesi,n.a.,n.a.
+Smooth Love Potion,n.a.,n.a.
+Synapse,n.a.,n.a.
+Open Campus,n.a.,n.a.
+Yield Guild Games,n.a.,n.a.
+Creditcoin,n.a.,n.a.
+Marlin,n.a.,n.a.
+Oraichain,n.a.,n.a.
+Polymesh,Layer 1,PoS
+Pendle,DeFi,Derivatives
+RSK Infrastructure Framework,n.a.,n.a.
+IQ,n.a.,n.a.
+DigiByte,Layer 1,PoW
+Tellor Tributes,Infrastructure,Oracle
+Big Time,n.a.,n.a.
+Tectum,n.a.,n.a.
+Numeraire,n.a.,n.a.
+Prom,n.a.,n.a.
+Sleepless AI,n.a.,n.a.
+ConstitutionDAO,n.a.,n.a.
+Victoria VR,n.a.,n.a.
+JOE,n.a.,n.a.
+IOST,n.a.,n.a.
+Horizen,Currency,Privacy
+Wen,n.a.,n.a.
+Syscoin,n.a.,n.a.
+Covalent,n.a.,n.a.
+Venus,n.a.,n.a.
+Stratis,n.a.,n.a.
+Constellation,n.a.,n.a.
+Bone ShibaSwap,n.a.,n.a.
+Alchemy Pay,n.a.,n.a.
+Nano,n.a.,n.a.
+Powerledger,n.a.,n.a.
+Aurora,n.a.,n.a.
+Moonriver,n.a.,n.a.
+Orbs,n.a.,n.a.
+Heroes of Mavia,n.a.,n.a.
+ARK,n.a.,n.a.
+Vulcan Forged,n.a.,n.a.
+Orca,DeFi,DEX
+Hooked Protocol,n.a.,n.a.
+AirTor Protocol,n.a.,n.a.
+Status,n.a.,n.a.
+Celer Network,n.a.,n.a.
+Dent,n.a.,n.a.
+Secret,n.a.,n.a.
+Hive,n.a.,n.a.
+ChainGPT,n.a.,n.a.
+Gains Network,n.a.,n.a.
+Spell,n.a.,n.a.
+My Neighbor Alice,n.a.,n.a.
+LCX,n.a.,n.a.
+Kyber Network Crystal,n.a.,n.a.
+Alephium,n.a.,n.a.
+Hivemapper,n.a.,n.a.
+Myria,n.a.,n.a.
+Dogelon Mars,n.a.,n.a.
+Pundi X,n.a.,n.a.
+Dusk,n.a.,n.a.
+DODO,n.a.,n.a.
+Nakamoto Games,n.a.,n.a.
+OMG Network,n.a.,n.a.
+Hashflow,n.a.,n.a.
+XYO Network,n.a.,n.a.
+Radiant Capital,n.a.,n.a.
+WINkLink,n.a.,n.a.
+Telos,n.a.,n.a.
+Acala,n.a.,n.a.
+Zignaly,n.a.,n.a.
+Bounce,n.a.,n.a.
+Ontology Gas,n.a.,n.a.
+Stargate Finance,n.a.,n.a.
+Liquity,n.a.,n.a.
+Radio Caca,n.a.,n.a.
+Stella,n.a.,n.a.
+Sun Token,n.a.,n.a.
+Steem,n.a.,n.a.
+Chainflip,n.a.,n.a.
+Maverick Protocol,n.a.,n.a.
+Bluzelle,n.a.,n.a.
+Arcblock,n.a.,n.a.
+Grok,n.a.,n.a.
+STP,n.a.,n.a.
+WazirX,n.a.,n.a.
+Loom Network (NEW),n.a.,n.a.
+GamerCoin,n.a.,n.a.
+Mobox,n.a.,n.a.
+Phoenix,n.a.,n.a.
+Metal DAO,n.a.,n.a.
+Ultima,n.a.,n.a.
+LooksRare,n.a.,n.a.
+ApeX,n.a.,n.a.
+BakerySwap,n.a.,n.a.
+Verasity,n.a.,n.a.
+Frontier,n.a.,n.a.
+Adventure Gold,n.a.,n.a.
+AllianceBlock Nexera,n.a.,n.a.
+Ardor,n.a.,n.a.
+Hifi Finance,n.a.,n.a.
+StormX,n.a.,n.a.
+Phala,n.a.,n.a.
+Gitcoin,n.a.,n.a.
+Radworks,n.a.,n.a.
+NKN,n.a.,n.a.
+Access Protocol,n.a.,n.a.
+Civic,n.a.,n.a.
+Bancor Network,DeFi,DEX
+Shentu,n.a.,n.a.
+ArbDoge AI,n.a.,n.a.
+BENQI,n.a.,n.a.
+CyberConnect,n.a.,n.a.
+SuperRare,n.a.,n.a.
+Goldfinch,n.a.,n.a.
+Perpetual Protocol,n.a.,n.a.
+Ethernity Chain,n.a.,n.a.
+Multibit,n.a.,n.a.
+Origin Protocol,n.a.,n.a.
+Storj,Infrastructure,DePIN
+PlatON Network,n.a.,n.a.
+Gods Unchained,Entertainment,Gaming
+Alien Worlds,n.a.,n.a.
+QuarkChain,n.a.,n.a.
+Zebec Protocol,n.a.,n.a.
+Badger,n.a.,n.a.
+Request,n.a.,n.a.
+Verge,Currency,PoW
+MovieBloc,n.a.,n.a.
+Cortex,n.a.,n.a.
+Ren,n.a.,n.a.
+Sweat Economy,n.a.,n.a.
+PlayDapp,n.a.,n.a.
+Numbers Protocol,n.a.,n.a.
+tomiNet,Infrastructure,Other
+MAP Protocol,n.a.,n.a.
+Polkastarter,n.a.,n.a.
+Neon,n.a.,n.a.
+Viction,n.a.,n.a.
+Clover Finance,n.a.,n.a.
+Orchid Protocol,n.a.,n.a.
+TrueFi,n.a.,n.a.
+Chainge,n.a.,n.a.
+Automata,n.a.,n.a.
+ARPA,n.a.,n.a.
+Onyxcoin,n.a.,n.a.
+Reef,n.a.,n.a.
+Forta,n.a.,n.a.
+ZKFair,n.a.,n.a.
+Linear,n.a.,n.a.
+XCAD Network,n.a.,n.a.
+Litentry,n.a.,n.a.
+Alchemix,n.a.,n.a.
+Beta Finance,n.a.,n.a.
+LeverFi,n.a.,n.a.
+Biswap,n.a.,n.a.
+Aergo,n.a.,n.a.
+COMBO,n.a.,n.a.
+district0x,n.a.,n.a.
+REI Network,n.a.,n.a.
+Dynex,n.a.,n.a.
+CEEK Smart VR,n.a.,n.a.
+Turbo,n.a.,n.a.
+Orion,n.a.,n.a.
+Flamingo Finance,n.a.,n.a.
+DIA,n.a.,n.a.
+Samoyedcoin,n.a.,n.a.
+Measurable Data,n.a.,n.a.
+Strike,n.a.,n.a.
+Router Protocol,n.a.,n.a.
+Zephyr Protocol,n.a.,n.a.
+FUNToken,n.a.,n.a.
+Aleph.im,n.a.,n.a.
+Unifi Protocol DAO,n.a.,n.a.
+IDEX,n.a.,n.a.
+ShapeShift FOX,n.a.,n.a.
+STEPN Green Satoshi Token on Solana,n.a.,n.a.
+Doge Killer,n.a.,n.a.
+IRISnet,n.a.,n.a.
+Dione,n.a.,n.a.
+Bonfida,n.a.,n.a.
+Ampleforth Governance,n.a.,n.a.
+Bella Protocol,n.a.,n.a.
+PolySwarm,n.a.,n.a.
+Velodrome Finance,n.a.,n.a.
+Streamr,n.a.,n.a.
+Silly Dragon,n.a.,n.a.
+Sologenic,n.a.,n.a.
+Aavegotchi,n.a.,n.a.
+Virtua,n.a.,n.a.
+Wanchain,n.a.,n.a.
+LTO Network,n.a.,n.a.
+Quickswap [OLD],n.a.,n.a.
+SelfKey,n.a.,n.a.
+MXC,n.a.,n.a.
+SWFTCOIN,n.a.,n.a.
+Circuits of Value,n.a.,n.a.
+Niza Global,n.a.,n.a.
+AVA,n.a.,n.a.
+Komodo,n.a.,n.a.
+UniLend Finance,n.a.,n.a.
+BOB Token,n.a.,n.a.
+XPR Network,n.a.,n.a.
+Tokocrypto,n.a.,n.a.
+StarLink,n.a.,n.a.
+Keep3rV1,n.a.,n.a.
+League of Kingdoms,n.a.,n.a.
+Santos FC Fan Token,n.a.,n.a.
+HELLO,n.a.,n.a.
+Contentos,n.a.,n.a.
+Tranchess,n.a.,n.a.
+dForce,n.a.,n.a.
+BarnBridge,n.a.,n.a.
+Qredo,n.a.,n.a.
+Wing Finance,n.a.,n.a.
+Velo,n.a.,n.a.
+Voxies,n.a.,n.a.
+PARSIQ,n.a.,n.a.
+Voyager VGX,n.a.,n.a.
+Stafi,n.a.,n.a.
+NULS,n.a.,n.a.
+Paris Saint-Germain Fan Token,n.a.,n.a.
+Alpaca Finance,n.a.,n.a.
+TENET,n.a.,n.a.
+FC Barcelona Fan Token,n.a.,n.a.
+AirDAO,n.a.,n.a.
+Kava Lend,n.a.,n.a.
+Harvest Finance,n.a.,n.a.
+VIDT DAO,n.a.,n.a.
+AdEx,n.a.,n.a.
+Vite,n.a.,n.a.
+Enzyme,n.a.,n.a.
+PIVX,n.a.,n.a.
+AirSwap,n.a.,n.a.
+Pluton,n.a.,n.a.
+TROY,n.a.,n.a.
+Step App,n.a.,n.a.
+BurgerCities,n.a.,n.a.
+FIO Protocol,n.a.,n.a.
+Wall Street Memes,n.a.,n.a.
+Dogechain,n.a.,n.a.
+OG Fan Token,n.a.,n.a.
+Rarible,n.a.,n.a.
+Alpine F1 Team Fan Token,n.a.,n.a.
+SUKU,n.a.,n.a.
+Sperax,n.a.,n.a.
+Firo,n.a.,n.a.
+Pepe 2.0,n.a.,n.a.
+Manchester City Fan Token,n.a.,n.a.
+Kishu Inu,n.a.,n.a.
+Lazio Fan Token,n.a.,n.a.
+Gifto,n.a.,n.a.
+DFI.money,n.a.,n.a.
+Drep,n.a.,n.a.
+Vita Inu,n.a.,n.a.
+Dego Finance,n.a.,n.a.
+PowerPool Concentrated Voting Power,n.a.,n.a.
+Prosper,n.a.,n.a.
+Lambda,n.a.,n.a.
+ForTube,n.a.,n.a.
+pNetwork,n.a.,n.a.
+Viberate,n.a.,n.a.
+XDB CHAIN,n.a.,n.a.
+BEAM,n.a.,n.a.
+Ooki,n.a.,n.a.
+AC Milan Fan Token,n.a.,n.a.
+NADA Protocol Token,n.a.,n.a.
+AS Roma Fan Token,n.a.,n.a.
+Cream,n.a.,n.a.
+NvirWorld,n.a.,n.a.
+Atletico Madrid Fan Token,n.a.,n.a.
+MangoMan Intelligent,n.a.,n.a.
+OAX,n.a.,n.a.
+GroveCoin,n.a.,n.a.
+Akropolis,n.a.,n.a.
